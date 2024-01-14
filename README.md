@@ -21,7 +21,7 @@
   </h1>
 
   <div align="center">
-    <img src="https://7themes.su/_ph/66/694359572.png?1705266283" width="800" height="500"/>
+    <img src="https://7themes.su/_ph/66/694359572.png?1705266283" width="600" height="400"/>
   </div>
 </div>
 
