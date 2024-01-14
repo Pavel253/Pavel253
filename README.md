@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="300"/>
 
   <div id="badges" align="center">
     <a href="https://vk.com/pavitves">
