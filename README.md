@@ -21,7 +21,7 @@
   </h1>
 
   <div align="center">
-    <img src="https://www.youtube.com/watch?v=aMV74om3xQ4&ab_channel=%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2f" width="600" height="400"/>
+    <img src="https://7themes.su/_ph/66/694359572.png?1705266283" width="800" height="500"/>
   </div>
 </div>
 
