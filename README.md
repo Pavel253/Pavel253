@@ -16,12 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=Pavel253&style=flat-square&color=blue" alt=""/>
     
   <h1>
-    <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.youtube.com/watch?v=aMV74om3xQ4&ab_channel=%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2)" width="40px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
     Привет! Я Павел
   </h1>
 
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+    <img src="https://www.youtube.com/watch?v=aMV74om3xQ4&ab_channel=%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2f" width="600" height="400"/>
   </div>
 </div>
 
