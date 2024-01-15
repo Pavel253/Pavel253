@@ -73,15 +73,6 @@
       
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel253&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  ---
-
-  ### :writing_hand: Сообщения в блоге :
-
-
-  <!-- BLOG-POST-LIST:START -->
-  
-  <!-- BLOG-POST-LIST:END -->
-
   
 </div>
 
