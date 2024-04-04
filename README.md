@@ -28,7 +28,7 @@
 <div id='main' align="start">
   :man_technologist: Обо мне :
   
-  Я Fullstack разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Я специалист по проникновению <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   - :telescope: Мне нравится исследовать новые технологии, разрабатывать программные решения и обеспечивать безопасность.
 
@@ -61,6 +61,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" **alt="blender" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>&nbsp;
   </div>
 
