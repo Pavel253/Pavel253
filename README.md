@@ -28,7 +28,7 @@
 <div id='main' align="start">
   :man_technologist: Обо мне :
   
-  Я специалист по проникновению <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Я специалист по тестирование на проникновение <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   - :telescope: Мне нравится исследовать новые технологии, разрабатывать программные решения и обеспечивать безопасность.
 
