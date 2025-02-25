@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="300"/>
 
   <div id="badges" align="center">
-    <a href="https://vk.com/pavitves">
-      <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
-    </a>
-      <a href="https://api.whatsapp.com/send?phone=89157020675">
-      <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
     <a href="https://t.me/Pusha_azure">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
