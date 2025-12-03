@@ -1,24 +1,23 @@
-# 👋 Привет! Я [Ваше Имя] - Security Researcher & Full-Stack Developer
+# 👨‍💻 Павел | Security Researcher & Developer
 
-## 🔥 Мои специализации:
-- 🔍 **Bug Bounty Hunting** (Web Application Security, API Security)
-- 🛡️ **Pentesting & Security Research**
-- ⚛️ **Full-Stack Development** (React, Node.js, Python)
-- 🐍 **Security Automation** (Python scripts, tools development)
+## 🎯 Обо мне
+**20 лет**
 
-## 🏆 Bug Bounty Достижения:
-- [Название программы 1] - [Класс уязвимостей, найденные]
-- [Название программы 2] - [Упомянуть CVE если есть]
-- Top 100 на [PlatformName]
+🔐 **Специалист по информационной безопасности** с практическим опытом в пентестинге и разработке.
+Совмещаю навыки security research (Bug Bounty, CTF) с веб-разработкой на React/Next.js и Python.
 
-## 🛠️ Технический стек:
+---
 
-### Security Tools:
-- **Recon:** Sublist3r, Amass, Nuclei, ffuf
-- **Testing:** Burp Suite, OWASP ZAP, sqlmap
-- **Analysis:** Wireshark, Ghidra, radare2
+## 🛠️ Технический стек
 
-### Development:
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Python (Django/Flask/FastAPI), Node.js
-- **Scripting:** Python (automation, tools), Bash
+### 🔒 **Information Security**
+- **Penetration Testing:** OWASP Top 10, Web/Network Security
+- **Tools:** Burp Suite, Nmap, Metasploit, Nessus, SQLmap, Dirsearch, ffuf, Linpeas
+- **Platforms:** Kali Linux, RED OS Linux
+- **Methodologies:** PTES, OSSTMM
+
+### 💻 **Development**
+- **Frontend:** React, Next.js, JavaScript
+- **Backend:** Python (Flask), MySQL, SQLite
+- **DevOps:** Docker
+- **Networking:** TCP/IP, сетевые службы
